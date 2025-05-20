@@ -76,3 +76,6 @@ export async function getRefreshedToplistData(
   
   return fetchWithCache<TravelOffer[]>(url);
 }
+
+
+// updated
